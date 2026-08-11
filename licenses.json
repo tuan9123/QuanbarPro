@@ -1,12 +1,12 @@
 {
   "product": "QuanBarPro",
-  "issued_at": 1786412561,
+  "issued_at": 1786416800,
   "licenses": [
     {
       "identity": "KEYTUAN-1234TUAN",
       "device": "*",
       "status": "licensed",
-      "valid_until": 1789084799
+      "valid_until": 1786147199
     }
   ]
 }
